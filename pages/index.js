@@ -21,7 +21,7 @@ export default function Home() {
 					Download the mono toggle in your menu bar
 				</h2>
 
-				<a href="https://apps.apple.com/app/id">
+				<a href="https://apps.apple.com/app/id1568916578">
 					<Image src="/download.svg" alt="Download on the Mac App Store" width={312} height={80} />
 				</a>
 
